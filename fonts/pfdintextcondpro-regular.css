@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'pfdintextcondpro-regular';
+  src: url(./pfdintextcondpro-regular.eot);
+  src: url(./pfdintextcondpro-regular.eot?#iefix) format('embedded-opentype'),
+       url(./pfdintextcondpro-regular.otf) format('otf'),
+       url(./pfdintextcondpro-regular.svg#pfdintextcondpro-regular) format('svg'),
+       url(./pfdintextcondpro-regular.ttf) format('truetype'),
+       url(./pfdintextcondpro-regular.woff) format('woff');
+}

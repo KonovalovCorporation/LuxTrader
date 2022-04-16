@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'ceremonious_one';
+  src: url(./ceremonious_one.eot);
+  src: url(./ceremonious_one.eot?#iefix) format('embedded-opentype'),
+       url(./ceremonious_one.otf) format('otf'),
+       url(./ceremonious_one.ttf) format('truetype'),
+       url(./ceremonious_one.svg#ceremonious_one) format('svg'),
+       url(./ceremonious_one.woff) format('woff');
+}

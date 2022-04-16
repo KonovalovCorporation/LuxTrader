@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'BravoRGRegular';
+  src: url(./BravoRGRegular.eot);
+  src: url(./BravoRGRegular.eot?#iefix) format('embedded-opentype'),
+       url(./BravoRGRegular.otf) format('otf'),
+       url(./BravoRGRegular.svg#BravoRGRegular) format('svg'),
+       url(./BravoRGRegular.woff) format('woff'),
+       url(./BravoRGRegular.ttf) format('truetype');
+}
